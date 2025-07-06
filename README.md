@@ -1,4 +1,5 @@
 ## Hi there, I am Ammar 👋
+I am currently pursuing the Microsoft Python Development Professional Certificate.
 
 <!--
 **AmmarMohammed01/AmmarMohammed01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
