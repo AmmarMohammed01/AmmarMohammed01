@@ -1,24 +1,24 @@
 ## Hi there 👋
-# Who Am I
-I am Ammar Mohammed.
+## Who Am I 👤
+I am Ammar Mohammed.<br>
 I am studying Computer Engineering.
 
-# Currently Working On
+## Currently Working On
 Job Application Tracker/Logger:
 - Frontend: HTML/CSS/JS
 - Backend: Python w/ FastAPI
 
-# Other Projects I Worked On
-🔨 UTDesign FabLab Card Sign-In System: https://github.com/UTDallasEPICS/UTDesign-FabLab-Tool-Access
-🍀 UTD Bottle Counter Initiative: https://github.com/UTDallasEPICS/utd-oos-bottle-counter
-📆 AmmarMohammed Weekly Todo List: https://github.com/AmmarMohammed01/Weekly
+## Other Projects I Worked On
+🔨 UTDesign FabLab Card Sign-In System: https://github.com/UTDallasEPICS/UTDesign-FabLab-Tool-Access<br>
+🍀 UTD Bottle Counter Initiative: https://github.com/UTDallasEPICS/utd-oos-bottle-counter<br>
+📆 AmmarMohammed Weekly Todo List: https://github.com/AmmarMohammed01/Weekly<br>
 💡 PCB Visual Defect Inspection: https://github.com/jhill5718/Senior-Project-2299
 
-# Tools I Use
-🖥️ HTML/CSS/JS
+## Tools I Use
+🖥️ HTML/CSS/JS<br>
 🐍 Python
 
-# More About Me
+## More About Me
 🔗 https://www.linkedin.com/in/ammarmohammed01/
 
 <!--
