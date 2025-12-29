@@ -4,16 +4,19 @@ I am studying Computer Engineering.<br>
 I am interested in IoT and full-stack development.
 
 ## Currently Working On
-Job Application Tracker/Logger: https://github.com/AmmarMohammed01/JobAppTracker.git
+👔 Job Application Tracker/Logger: https://github.com/AmmarMohammed01/JobAppTracker.git
 - Just a project to help me keep track of what jobs I apply to and current application status
 - Frontend: HTML/CSS/JS
 - Backend: Python w/ FastAPI
 
-## Other Projects I Worked On
+## Group Projects I Worked On
 🔨 UTDesign FabLab Card Sign-In System: https://github.com/UTDallasEPICS/UTDesign-FabLab-Tool-Access<br>
 🍀 UTD Bottle Counter Initiative: https://github.com/UTDallasEPICS/utd-oos-bottle-counter<br>
-📆 AmmarMohammed Weekly Todo List: https://github.com/AmmarMohammed01/Weekly<br>
 💡 PCB Visual Defect Inspection: https://github.com/jhill5718/Senior-Project-2299
+
+## My Own Projects
+📆 AmmarMohammed Weekly Todo List: https://github.com/AmmarMohammed01/Weekly<br>
+👔 Job Application Tracker/Logger: https://github.com/AmmarMohammed01/JobAppTracker.git
 
 ## Tools I Use
 🖥️ HTML/CSS/JS<br>
