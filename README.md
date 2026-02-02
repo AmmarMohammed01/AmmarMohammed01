@@ -17,7 +17,8 @@ I am interested in IoT and full-stack development.
 💡 PCB Visual Defect Inspection: https://github.com/jhill5718/Senior-Project-2299
 
 ## My Own Projects
-📆 AmmarMohammed Weekly Todo List: https://github.com/AmmarMohammed01/Weekly<br>
+📆 Weekly Todo List: https://github.com/AmmarMohammed01/Weekly<br>
+⏰ Digital Clock: https://github.com/AmmarMohammed01/DigitalClock<br>
 <!--👔 Job Application Tracker/Logger: https://github.com/AmmarMohammed01/JobAppTracker.git-->
 
 ## Tools I Use
