@@ -3,6 +3,13 @@ I am Ammar Mohammed.<br>
 I am studying Computer Engineering.<br>
 I am interested in IoT and full-stack development.
 
+## Currently Working On
+💡 PCB Visual Defect Inspection: https://github.com/AmmarMohammed01/Senior-Design/
+- PCB stands for Printed Circuit Boards. They're used to house electrical components.
+- The project aims to detect potential defects on a PCB.
+- It does this by comparing a perfect/"golden" board to a "test" board.
+- OpenCV allows us to scan differences between the two images of boards. If difference is noticed it is flagged as possible defect.
+
 <!--
 ## Currently Working On
 👔 Job Application Tracker/Logger: https://github.com/AmmarMohammed01/JobAppTracker.git
@@ -14,7 +21,7 @@ I am interested in IoT and full-stack development.
 ## Group Projects I Worked On
 🔨 UTDesign FabLab Card Sign-In System: https://github.com/UTDallasEPICS/UTDesign-FabLab-Tool-Access<br>
 🍀 UTD Bottle Counter Initiative: https://github.com/UTDallasEPICS/utd-oos-bottle-counter<br>
-💡 PCB Visual Defect Inspection: https://github.com/AmmarMohammed01/Senior-Design/
+<!--💡 PCB Visual Defect Inspection: https://github.com/AmmarMohammed01/Senior-Design/-->
 
 ## My Own Projects
 📆 Weekly Todo List: https://github.com/AmmarMohammed01/Weekly<br>
@@ -23,6 +30,7 @@ I am interested in IoT and full-stack development.
 
 ## Tools I Use
 🖥️ HTML/CSS/JS<br>
+⚙️ C/C++<br>
 🐍 Python
 
 ## More About Me
