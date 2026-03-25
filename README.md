@@ -14,7 +14,7 @@ I am interested in IoT and full-stack development.
 ## Group Projects I Worked On
 🔨 UTDesign FabLab Card Sign-In System: https://github.com/UTDallasEPICS/UTDesign-FabLab-Tool-Access<br>
 🍀 UTD Bottle Counter Initiative: https://github.com/UTDallasEPICS/utd-oos-bottle-counter<br>
-💡 PCB Visual Defect Inspection: https://github.com/jhill5718/Senior-Project-2299
+💡 PCB Visual Defect Inspection: https://github.com/AmmarMohammed01/Senior-Design/
 
 ## My Own Projects
 📆 Weekly Todo List: https://github.com/AmmarMohammed01/Weekly<br>
