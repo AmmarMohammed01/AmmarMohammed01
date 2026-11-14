@@ -1,12 +1,12 @@
 ## Hi there 👋
 I am Ammar Mohammed.<br>
-I am studying Computer Engineering.<br>
-I am interested in IoT and full-stack development.
+BS'26 Computer Engineering.<br>
+Interests: Machine Learning, Computer Vision, Databases, Web Development, IoT, Embedded Systems, Computer Architecture.
 
-## Currently Working On
+## Capstone Project - Recent
 💡 PCB Visual Defect Inspection: https://github.com/AmmarMohammed01/Senior-Design/
+- The project aims to visually detect potential defects on a PCB.
 - PCB stands for Printed Circuit Boards. They're used to house electrical components.
-- The project aims to detect potential defects on a PCB.
 - It does this by comparing a perfect/"golden" board to a "test" board.
 - OpenCV allows us to scan differences between the two images of boards. If difference is noticed it is flagged as possible defect.
 
@@ -32,9 +32,6 @@ I am interested in IoT and full-stack development.
 🖥️ HTML/CSS/JS<br>
 ⚙️ C/C++<br>
 🐍 Python
-
-## More About Me
-🔗 https://www.linkedin.com/in/ammarmohammed01/
 
 <!--
 **AmmarMohammed01/AmmarMohammed01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
